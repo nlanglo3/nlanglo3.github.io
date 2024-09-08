@@ -1,0 +1,41 @@
+---
+title: "Naomi Langlois"
+image: "/Users/naomilanglois/Desktop/nlanglo3.github.io/IMG_6728.JPG"
+links:
+  - label: LinkedIn
+    url: "linkedin.com/in/naomi-langlois-b62ab5177" 
+  - label: GitHub
+    url: "https://github.com/nlanglo3"
+  - label: Email
+    url: "nlanglo3@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Naomi Langlois is a current MPH student at Johns Hopkins Bloomberg School of Public Health. She studied Public Health in her undergraduate studies at Tulane University and stayed in New Orleans to serve the community that allowed her to call New Orleans home. She worked in the sexual health and harm reduction field for 3 years before returning to school to obtain her MPH at Johns Hopkins University. Naomi is passionate about working with the communities that surround her in a harm reduction and health equity approach. 
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+
+MPH | July 2024 - May 2025
+
+**Tulane University** | New Orleans, LA
+
+BSPH | August 2017 - December 2020
+
+## Experience
+
+**Crescentcare** | Hepatitis C Linkage to Care Coordinator | August 2022 - March 2024
+
+**Crescentcare** | HIV Navigator | October 2021 - August 2022 
+
+**Crescentcare** | Prevention Coordinator | March 2021 - October 2021
+
+**Brinton Family Health and Healing Center** | Bilingual Community Wellness Content Developer | August 2020 - December 2020
+
+**Every Woman Every Child United Nations** | Research Intern | May 2020 - December 2020
+
+**Collaborative Group for Health Equity in Latin America** | Research Assistant | August 2019 - December 2020
